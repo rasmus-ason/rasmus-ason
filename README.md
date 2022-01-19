@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey 👋
+
+Rasmus här, studerar till webbutvecklare på Mittuniveristetet. Bor i Stockholm men med planer att flytta mig utomlands. Jag gillar området webbutveckling för att
+det är brett och ger en stora arbetsmöjligheter i framtiden inom ett område som ständigt är i utveckling. 
+
+Ser fram emot att se vart utbildningen leder mig!
+
 
 <!--
 **rasmus-ason/rasmus-ason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
